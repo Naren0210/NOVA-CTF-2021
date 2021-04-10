@@ -1,0 +1,9 @@
+WTH IS THIS? WHAT DO YOU THINK?
+a8 a7 a6 b6
+c6 d8 d7 d6
+e7 f8 f7 __
+g8 g7 g6 h7
+a4 a2 b4 __
+c2 d4 d3 d2
+e4 __ __ __
+g4 g3 g2 h3
